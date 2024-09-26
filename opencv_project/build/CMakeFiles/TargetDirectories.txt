@@ -1,3 +1,0 @@
-/home/panchant/Developing Software/Git/repo/XJTU-RMV-Task02/opencv_project/build/CMakeFiles/OpenCV_Project.dir
-/home/panchant/Developing Software/Git/repo/XJTU-RMV-Task02/opencv_project/build/CMakeFiles/edit_cache.dir
-/home/panchant/Developing Software/Git/repo/XJTU-RMV-Task02/opencv_project/build/CMakeFiles/rebuild_cache.dir
